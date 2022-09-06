@@ -12,8 +12,6 @@ div {
 }
 
 .top-container {
-  width: 200px;
-  height: 200px;
   background-color: #E4F9F5;
 }
 
@@ -27,4 +25,8 @@ div {
   width: 200px;
   height: 200px;
   background-color: blue;
+}
+
+.pro {
+  text-decoration: underline;
 }
