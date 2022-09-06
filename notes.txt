@@ -1,0 +1,2 @@
+ Lecture 47 - CSS Static and Relative positioning
+ - See the codepen: https://codepen.io/chewy927/pen/qBmgJVE?editors=1100
