@@ -1,2 +1,12 @@
  Lecture 47 - CSS Static and Relative positioning
  - See the codepen: https://codepen.io/chewy927/pen/qBmgJVE?editors=1100
+
+
+Lecture 48 - Absolute positioning
+- Absolute positioning is relative to the parent. Example given was an image
+inside of a div. Give the image absolute positioning and the right: 30px property
+and the image shifts all the way to the right side of the div and then gets a
+right margin of 30px from the right edge.
+- Relative positioning shifts an element relative to where it would have been
+with no styling. Absolute is adding a margin to its parent element.
+- See absolute positioning codepen: https://codepen.io/chewy927/pen/qBmgJVE
