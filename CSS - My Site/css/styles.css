@@ -29,15 +29,11 @@ div {
 }
 
 .middle-container {
-  width: 200px;
-  height: 200px;
-  background-color: red;
+
 }
 
 .bottom-container {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
+
 }
 
 .pro {
@@ -54,4 +50,20 @@ div {
   position: absolute;
   top: 50px;
   right: 600px;
+}
+
+.headshot {
+  width: 10%;
+  border-radius: 50%;
+  border: solid 2px;
+  border-color: black;
+}
+
+.skill-javascript {
+  width: 10%;
+}
+
+.skill-git {
+  width: 10%;
+  background-color: white;
 }
