@@ -21,3 +21,7 @@ Lecture 53 - CSS Sizing
 the body and then specify a font size on another element, the other elements
 size will be added to the size specified in the body.
 - rem = root em. Ignores the parent sizing.
+
+Lecture 58 - CSS Float and Clear
+- Recommend only to use it when you want to wrap text around something.
+Don't use it for positioning!

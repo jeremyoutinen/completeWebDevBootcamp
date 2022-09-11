@@ -69,11 +69,22 @@ div {
   border-color: black;
 }
 
-.skill-javascript {
-  width: 10%;
+.skill-img-javascript {
+  width: 20%;
+  float: left;
+  padding-right: 30px;
 }
 
-.skill-git {
-  width: 10%;
+.skill-img-git {
+  width: 20%;
   background-color: white;
+  float: right;
+  padding-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
 }
