@@ -1,0 +1,27 @@
+ Lecture 47 - CSS Static and Relative positioning
+ - See the codepen: https://codepen.io/chewy927/pen/qBmgJVE?editors=1100
+
+
+Lecture 48 - Absolute positioning
+- Absolute positioning is relative to the parent. Example given was an image
+inside of a div. Give the image absolute positioning and the right: 30px property
+and the image shifts all the way to the right side of the div and then gets a
+right margin of 30px from the right edge.
+- Relative positioning shifts an element relative to where it would have been
+with no styling. Absolute is adding a margin to its parent element.
+- See absolute positioning codepen: https://codepen.io/chewy927/pen/qBmgJVE
+
+Lecture 49 - Centering elements with css
+- text-align: center; will center everything inside  that doesn't have a width set.
+- if a width is set, you can use the auto property of the margin.
+
+Lecture 53 - CSS Sizing
+- 16px = 100% = 1em
+- Dynamic Font size (em, percentages) is inhereited. If you have a font size on
+the body and then specify a font size on another element, the other elements
+size will be added to the size specified in the body.
+- rem = root em. Ignores the parent sizing.
+
+Lecture 58 - CSS Float and Clear
+- Recommend only to use it when you want to wrap text around something.
+Don't use it for positioning!
