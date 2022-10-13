@@ -51,12 +51,11 @@ h1 {
 }
 
 /* Features */
-.feature-container {
-  margin: 2.5rem;
+#features {
+  padding: 7% 15%;
 }
 .single-feature-container {
-  padding: 2.5rem;
-  /* padding-bottom: 10rem; */
+  padding: 5%;
 }
 
 .feature-description {
@@ -66,9 +65,8 @@ h1 {
 }
 
 .feature-icon {
-  font-size: 3rem;
   color: #ef8172;
-  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 .feature-icon:hover {
