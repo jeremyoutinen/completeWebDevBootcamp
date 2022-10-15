@@ -10,7 +10,7 @@ h1 {
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 3%;
 }
 
 #title {
@@ -46,14 +46,18 @@ h1 {
 
 /* Title Image */
 .title-img {
-  width: 60%;
+  max-width: 60%;
   transform: rotate(25deg);
+  margin: auto auto -20rem 7rem;
 }
 
 /* Features */
 #features {
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
 }
+
 .single-feature-container {
   padding: 5%;
 }
